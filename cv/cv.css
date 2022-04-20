@@ -1,0 +1,92 @@
+#header{
+    display:grid;
+    grid-template-columns: 2fr 5fr;
+    background:black;
+    color:white;
+}
+#ui{
+    display:grid;
+    grid-template-columns: 0.2fr 0.5fr;
+}
+.skills{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+#ent{
+    margin-top:0px;
+}
+#space{
+    margin-left:30px;
+}
+#progress-bar{
+    background:#cdcdcf;
+    margin-top:5px;
+    height:10px;
+    width:100px;
+}
+#progress{
+    background:black;
+    height:10px;
+    width:80px;
+}
+.topM{
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+#contacts{
+    background:#cdcdcf;
+    padding:10px;
+}
+#skills{
+    background:#cdcdcf;
+    padding:10px;
+}
+#exp1{
+    margin-right:20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 4fr;
+}
+p{
+    text-align:justify;
+}
+#head{
+    font-weight:bold;
+}
+svg{
+    height:2em;
+    margin-left:40px;
+}
+#left-mrgm{
+    margin-left:40px;
+    font-weight:bold;
+}
+#image{
+    height:150px;
+    width:150px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:10px;
+}
+#name{
+    letter-spacing:0.5em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#web{
+    letter-spacing :0.2em;
+    margin-top: 30px;
+}
+#underline{
+    width:400px;
+    height:7px;
+    margin-top: 20px;
+    background: #ceced0;
+}
+#exp{
+    background:#cdcdcf;
+    padding:10px;
+}
+#wrapper{
+    padding:0px;
+    margin-top:50px;
+}
